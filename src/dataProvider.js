@@ -1,7 +1,7 @@
 import { fetchUtils } from 'react-admin';
 import { stringify } from 'query-string';
 
-const apiUrl = 'http://198.199.72.22/api';
+const apiUrl = 'https://admin.pey.cash/api';
 const httpClient = fetchUtils.fetchJson;
 
 export default {
